@@ -1,6 +1,6 @@
 {
   "name": "@chrisluyi/demo-main",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "> TODO: description",
   "author": "Chris Lu Yi <chris_lu@medinno.onmicrosoft.com>",
   "homepage": "https://github.com/RequiemSoul/monorepo/tree/master/packages/demo-main#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/medisysinnovation/monorepo/issues"
   },
   "dependencies": {
-    "@chrisluyi/demo-lib2": "^0.0.10"
+    "@chrisluyi/demo-lib2": "^0.0.11"
   },
   "gitHead": "124ffc36bb2dd8c626a24b674ddf9016fb040ac3"
 }
