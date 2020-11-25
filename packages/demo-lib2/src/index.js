@@ -1,7 +1,5 @@
-"use strict";
-
-module.exports = demoLib2;
-
-function demoLib2() {
+export function demoLib2() {
   // TODO
+  console.log(123132);
+  return "123123";
 }
