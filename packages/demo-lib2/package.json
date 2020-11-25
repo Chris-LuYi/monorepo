@@ -5,13 +5,8 @@
   "author": "Chris Lu Yi <chris_lu@medinno.onmicrosoft.com>",
   "homepage": "https://github.com/RequiemSoul/monorepo/tree/master/packages/demo-lib2#readme",
   "license": "MIT",
-  "main": "src/demo-lib2.js",
   "publishConfig": {
     "access": "public"
-  },
-  "directories": {
-    "lib": "src",
-    "test": "__tests__"
   },
   "files": [
     "dist"
