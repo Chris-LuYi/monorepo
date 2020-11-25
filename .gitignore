@@ -9,7 +9,7 @@
 /.changelog
 yarn.lock
 # package-lock.json
-dist
+# dist
 .eslintcache
 .umi
 .umi-production
