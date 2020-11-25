@@ -1,0 +1,17 @@
+/.vscode
+/node_modules
+/coverage
+/packages/*/es
+/packages/*/lib
+/packages/*/node_modules
+/packages/*/.local
+/.local
+/.changelog
+yarn.lock
+package-lock.json
+dist
+.eslintcache
+.umi
+.umi-production
+.umi-test
+.now

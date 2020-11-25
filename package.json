@@ -1,0 +1,23 @@
+{
+  "name": "monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RequiemSoul/monorepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RequiemSoul/monorepo/issues"
+  },
+  "homepage": "https://github.com/RequiemSoul/monorepo#readme",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}

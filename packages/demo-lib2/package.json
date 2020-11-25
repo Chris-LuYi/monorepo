@@ -1,0 +1,26 @@
+{
+  "name": "@chrisluyi/demo-lib2",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "Chris Lu Yi <chris_lu@medinno.onmicrosoft.com>",
+  "homepage": "https://github.com/RequiemSoul/monorepo/tree/master/packages/demo-lib2#readme",
+  "license": "MIT",
+  "main": "lib/demo-lib2.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RequiemSoul/monorepo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/RequiemSoul/monorepo/issues"
+  }
+}

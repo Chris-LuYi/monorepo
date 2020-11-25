@@ -1,0 +1,10 @@
+31 error Error: Command failed: git add -- packages/demo-lib/package.json packages/demo-lib/package-lock.json packages/demo-main/package.json packages/demo-main/package-lock.json lerna.json
+31 error The following paths are ignored by one of your .gitignore files:
+31 error packages/demo-main/package-lock.json
+31 error hint: Use -f if you really want to add them.
+31 error hint: Turn this message off by running
+31 error hint: "git config advice.addIgnoredFile false"
+31 error
+31 error     at makeError (C:\Users\chris\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\index.js:174:9)
+31 error     at C:\Users\chris\AppData\Roaming\npm\node_modules\lerna\node_modules\execa\index.js:278:16
+31 error     at processTicksAndRejections (internal/process/task_queues.js:97:5)
